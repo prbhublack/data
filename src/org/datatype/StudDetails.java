@@ -31,6 +31,8 @@ public class StudDetails
 		
 		long phone=987654321l;
 		System.out.println("His mob num "+ phone);
+		
+		System.out.println("prabhu");
 	
 	}
 	
